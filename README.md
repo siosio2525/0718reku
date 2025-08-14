@@ -23,3 +23,4 @@ npm run lint
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
 "# 0718reku" 
+"# m3h-aikawa-kadai45" 
